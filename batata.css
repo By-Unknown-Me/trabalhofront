@@ -1,0 +1,161 @@
+
+  @import url("https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap");
+  header{
+  background-image: url(https://cdn.discordapp.com/attachments/1103455068600152085/1124541497971331162/fundo.png);
+  background-size: cover;
+  padding:0;
+  margin: 0;
+  border: 0;
+  position: fixed;
+  width: 100%;
+}
+h2 h3 h4 h5 h6{
+  justify-content: space-evenly;
+  font-family: 'Amatic SC', cursive;
+  font-size: 15px;
+  color: #4c4082;
+  margin: 0;
+ }
+h1 {
+  display:flex;
+  color:#4c4082;
+  font-size: 45px;
+  justify-content: space-evenly;
+  font-family: 'Amatic SC bold';
+}
+ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin:0;
+  padding: 0;
+}
+#id{
+  width: 100%;
+  height: 10%;
+
+}
+body{
+  background-color: #1e1845;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  display: flex;
+}
+#Top{
+  min-width: 100%;
+  height: 210px;
+  border: 0;
+  padding:0;
+  margin: 0;
+  position: fixed;
+}
+#for{
+  background-image: url(https://cdn.discordapp.com/attachments/1103455068600152085/1124541497971331162/fundo.png);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  padding:0;
+  margin: 0;
+  border: 0;
+}
+#fem{
+  font-size: 26px;
+  color: #000000;
+  padding: 0;
+}
+#n{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+input{
+  background-image: url(https://cdn.discordapp.com/attachments/1103455068600152085/1124541497971331162/fundo.png);
+  color: #1e1845;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  margin-bottom: 0vw;
+  margin-top: 0vw;
+  flex-direction: column;
+  border-radius: 10vw;
+}
+article{
+  display: flex;
+  color: #000000;
+  justify-content: center;
+  font-size: 20px;
+  margin:6vw;
+  margin-bottom: 0vw;
+  margin-top: 0vw;
+  font-family: 'Amatic SC bold';
+}
+p{
+  display: flex;
+  justify-content: center;
+  font-family: 'Amatic SC', bold;
+  font-size: 25px;
+  color: black;
+  margin: 2vw;
+}
+a{
+  font-family: 'Amatic SC bold';
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+}
+button{
+  background-color: #0a0a0a;
+}
+#imagem{
+  width: 15vw;
+  height: 20vw;
+  margin-top: 1vw;
+  margin-left: 2vw;
+  padding: 0;
+  border: 0; 
+  margin: 5vw;
+}
+#ini{
+  margin-top: 12vw;
+  margin-left: 0vw;
+  display:flex;
+  color:#4c4082;
+  font-size: 35px;
+  justify-content: space-evenly;
+  font-family: 'Amatic SC', bold;
+}
+#b{
+  width: 20vw;
+  margin-top: 5vw;
+  padding: 0;
+  border: 0;
+}
+#i{
+  width: 10vw;
+  height: 10vw;
+  margin: 10vw;
+  padding: 0;
+  border: 0; 
+}
+#bd{
+  width: 20vw;
+  height: 25vw;
+  margin-top: 17vw;
+  padding: 0;
+  border: 0; 
+}
+#cima{
+  padding: 0;
+  border: 0; 
+}
+#main{
+  padding: 10vw;
+  
+}
+#ff{
+  padding: 0;
+
+}
